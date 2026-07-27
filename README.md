@@ -13,6 +13,7 @@ Hebrew, and every file's revision history is part of the work.
 | Directory | Language |
 |-----------|----------|
 | `es/` | Español |
+| `he/` | עברית |
 | `pt/` | Português |
 | `zh-Hans/` | 简体中文 |
 
