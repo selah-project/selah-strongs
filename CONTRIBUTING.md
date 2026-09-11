@@ -51,3 +51,8 @@ Maintainers weigh the source definition, Hebrew headword, target-language
 usage, repository conventions, and evidence supplied. A proposal may be
 accepted, revised, held for more evidence, or declined with an explanation.
 Please critique the text rather than the person proposing it.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
