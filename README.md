@@ -21,7 +21,7 @@ English needs no directory here — Strong's (1890) is English and
 public domain; the Selah English glosses live in
 [selah-en](https://github.com/selah-project/selah-en).
 
-Part of the [Selah project](https://selahproject.org).
+Part of the [Selah project](https://selahproject.com).
 License: [CC BY-SA 4.0](LICENSE.md).
 
 ## Support Selah
